@@ -1,7 +1,7 @@
 # AGENDA
 - 
 ## Bootstrap 
-the most popular HTML, CSS, and JS framework in the world for building responsive, mobile-first projects on the web.                  
+It's the most popular HTML, CSS, and JS framework in the world for building responsive, mobile-first projects on the web.                  
 https://v4-alpha.getbootstrap.com/getting-started/download/
     
 - 
