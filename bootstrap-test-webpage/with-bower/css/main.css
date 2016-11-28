@@ -1,0 +1,8 @@
+#bootstrap-overidde img {
+    width: 100%;
+    height: auto;
+}
+
+#bootstrap-overidde .col {
+    margin: 0 0 2rem 0;
+}
