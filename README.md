@@ -1,9 +1,13 @@
 # AGENDA
-- Bootstrap - the most popular HTML, CSS, and JS framework in the world for building responsive, mobile-first projects on the web.                  
-  https://v4-alpha.getbootstrap.com/getting-started/download/
+- 
+## Bootstrap 
+the most popular HTML, CSS, and JS framework in the world for building responsive, mobile-first projects on the web.                  
+https://v4-alpha.getbootstrap.com/getting-started/download/
     
-- Bower - Package Manager for Web |  
-  http://bower.io/
+- 
+## Bower 
+Package Manager for Web   
+http://bower.io/
 
   Bower is a command line utility and it requires:
   
@@ -17,7 +21,7 @@
     After Node.js and Git are installed, use Git CMD and install Bower.
 
     Install bower: 
-    # npm install -g bower
+    ### npm install -g bower
 
     Let's install bootstrap 4: 
-    # bower install bootstrap#4.0.0-alpha
+    ### bower install bootstrap#4.0.0-alpha
