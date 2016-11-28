@@ -1,0 +1,17 @@
+
+#bootstrap-overidde nav li {
+    float: none;
+    margin: 0 0 0 1rem;
+}
+
+#bootstrap-overidde nav button {
+    float: right;
+    border: 1px solid #666;
+}
+
+@media screen and (min-width: 34rem) {
+    #bootstrap-overidde nav li {
+        float: left;
+        margin: 0 0 0 1rem;
+    }
+}
