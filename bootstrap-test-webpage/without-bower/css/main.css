@@ -1,8 +1,37 @@
+/* -- 
+MOBILE EXTRA-SMALL 
+-- */
+/* -- make images responsive -- */
 #bootstrap-overidde img {
     width: 100%;
     height: auto;
 }
 
+/* -- this will create a horizontal gap of white space between rows -- */
 #bootstrap-overidde .col {
     margin: 0 0 2rem 0;
+}
+
+/* -- aligns list items verically in mobile view -- */
+#bootstrap-overidde li {
+    float: none;
+    margin: 0;
+}
+
+/* -- creates border around toggle-button -- */
+#bootstrap-overidde button {
+    border: 1px solid #666;
+}
+
+
+/* -- 
+MOBILE-SMALL plus (TABLET, DESKTOP, LARGE DESKTOP)
+-- */
+@media screen and (min-width: 34rem) {
+    
+    /* -- aligns list items horizontally in tablet view -- */
+    #bootstrap-overidde li {
+        float: left;
+        margin: 0 0 0 1rem;
+    }
 }
