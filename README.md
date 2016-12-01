@@ -18,7 +18,7 @@ http://bower.io/
     To use Bower on Windows, you must install msysgit correctly:
     https://github.com/bower/bower/wiki/Troubleshooting
 
-    After Node.js and Git are installed, use Git CMD and install Bower.
+    After Node.js and Git are installed, use CMD and install Bower.
 
     Install bower: 
     ### npm install -g bower
